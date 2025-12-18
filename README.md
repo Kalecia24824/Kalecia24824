@@ -1,5 +1,14 @@
 # 💫 About Me:
-## Hello, my name is Kalecia McNeal 👋<br><br># 💫 About Me:<br>⭐ I am a front-end web developer working on various projects from simple apps and pages to websites<br>🌠 My tech stack includes HTML, CSS, JavaScript (JS)<br>✨ I am currently learning React and Typescript <br>🌑 I am a beginner/junior dev looking to collaborate with other devs in the same boat as me!<br>🌕 I can help bring basic design ideas to life<br>🌙 Feel free to ask me about any questions you have or ideas you want to share <br>🌠 You can reach me at my email: kaleciamcneal@gmail.com or my LinkedIn at https://www.linkedin.com/in/kalecia-mcneal/<br>⭐ In my free time, I love to draw on my iPad, read and write short stories <br>
+ Hello, my name is Kalecia McNeal 👋<br><br>
+
+⭐ I am a front-end web developer working on various projects from simple apps and pages to websites<br>
+🌠 My tech stack includes HTML, CSS, JavaScript (JS)<br>
+✨ I am currently learning React and Typescript <br>
+🌑 I am a beginner/junior dev looking to collaborate with other devs in the same boat as me!<br>
+🌕 I can help bring basic web/app design ideas to life<br>
+🌙 Feel free to ask me about any questions you have about HTML, CSS, or JS <br>
+🌠 You can reach me at my email: kaleciamcneal@gmail.com or my LinkedIn at https://www.linkedin.com/in/kalecia-mcneal/<br>
+⭐ In my free time, I love to draw on my iPad, read and write short stories <br>
 
 
 ## 🌐 Socials:
