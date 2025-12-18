@@ -1,6 +1,7 @@
-# 💫 About Me:
- Hello, my name is Kalecia McNeal 👋<br><br>
+# 🌟 Welcome!
+ Hello, my name is Kalecia McNeal 👋<br>
 
+## 💫 About Me:
 ⭐ I am a front-end web developer working on various projects from simple apps and pages to websites<br>
 🌠 My tech stack includes HTML, CSS, JavaScript (JS)<br>
 ✨ I am currently learning React and Typescript <br>
