@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=180&section=header&text=Hi,%20I'm%20Kalecia!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%7C%20Beauty%20%26%20Wellness%20Data%20Enthusiast&descSize=16&descAlignY=58"/>
-
-</div>
-
-<div align="center">
-
-💄 Turning beauty & wellness data into meaningful insights 📊
+💄 Translating data into fashion and beauty trends 👛
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalecia-mcneal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Kalecia24824-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalecia24824)
@@ -17,6 +11,7 @@
 ---
 
 ## 🌸 About Me
+Hello, my name is Kalecia! Here everything you need to know about me: 
 
 ```yaml
 Name:       Kalecia McNeal
