@@ -1,31 +1,85 @@
-# 🌟 Welcome!
- Hello, my name is Kalecia McNeal 👋<br>
+<div align="center">
 
-## 💫 About Me:
-⭐ I am a front-end web developer working on various projects from simple apps and pages to websites<br>
-🌠 My tech stack includes HTML, CSS, JavaScript (JS)<br>
-✨ I am currently learning React and Typescript <br>
-🌑 I am a beginner/junior dev looking to collaborate with other devs in the same boat as me!<br>
-🌕 I can help bring basic web/app design ideas to life<br>
-🌙 Feel free to ask me about any questions you have about HTML, CSS, or JS <br>
-🌠 You can reach me at my email: kaleciamcneal@gmail.com or my LinkedIn at https://www.linkedin.com/in/kalecia-mcneal/<br>
-⭐ In my free time, I love to draw on my iPad, read and write short stories <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=180&section=header&text=Hi,%20I'm%20Kalecia!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%7C%20Beauty%20%26%20Wellness%20Data%20Enthusiast&descSize=16&descAlignY=58"/>
 
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalecia-mcneal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaleciamcneal@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kalecia24824&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kalecia24824&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalecia24824&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+💄 Turning beauty & wellness data into meaningful insights 📊
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalecia-mcneal/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kalecia24824-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalecia24824)
+[![Email](https://img.shields.io/badge/Email-kaleciamcneal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaleciamcneal@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kalecia24824&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 About Me
+
+```yaml
+Name:       Kalecia McNeal
+Location:   Tallahassee, FL
+Degree:     B.S. Information Technology — Florida State University (2024)
+Focus:      Data Analysis | Beauty, Fashion & Wellness Industries
+Currently:  Building my data analyst portfolio & leveling up in SQL + Python
+```
+
+I'm an aspiring Data Analyst with a passion for uncovering trends in the beauty and wellness space. 
+My background in data quality, record management, and AI data evaluation gives me a strong foundation 
+for making sense of complex datasets — and presenting them in a way that actually tells a story.
+
+---
+
+## 🛠️ Tools & Skills
+
+<div align="center">
+
+### Currently Using
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Learning
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 📁 Featured Projects
+
+> 🚧 Portfolio in progress — check back soon!
+
+| Project | Tools | Description |
+|---|---|---|
+| 🌿 Beauty Product Trends Analysis | Excel | Coming soon |
+| 💋 Skincare Brand Dashboard | SQL | Coming soon |
+| ✨ Wellness Market Insights | Power BI | Coming soon |
+| 🧴 Beauty Industry Trend Analysis | Python | Coming soon |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Kalecia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalecia24824&show_icons=true&theme=rose_pine&hide_border=true&title_color=c9a0dc&icon_color=f4a7b9&text_color=e0d0f0&bg_color=1e1530)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalecia24824&layout=compact&theme=rose_pine&hide_border=true&title_color=c9a0dc&text_color=e0d0f0&bg_color=1e1530)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=100&section=footer"/>
+
+*"Data is just information waiting to tell its story."* 🌸
+
+</div>
