@@ -52,7 +52,7 @@ for making sense of complex datasets — and presenting them in a way that actua
 
 | Project | Tools | Description |
 |---|---|---|
-| 🌿 Beauty Product Trends Analysis | Excel | Coming soon |
+| 🌿 Beauty Product Trends Analysis | Excel | Finds which product is the best |
 | 💋 Skincare Brand Dashboard | SQL | Coming soon |
 | ✨ Wellness Market Insights | Power BI | Coming soon |
 | 🧴 Beauty Industry Trend Analysis | Python | Coming soon |
