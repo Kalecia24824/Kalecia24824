@@ -59,18 +59,6 @@ for making sense of complex datasets — and presenting them in a way that actua
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Kalecia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalecia24824&show_icons=true&theme=rose_pine&hide_border=true&title_color=c9a0dc&icon_color=f4a7b9&text_color=e0d0f0&bg_color=1e1530)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalecia24824&layout=compact&theme=rose_pine&hide_border=true&title_color=c9a0dc&text_color=e0d0f0&bg_color=1e1530)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=100&section=footer"/>
