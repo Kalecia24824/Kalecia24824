@@ -1,12 +1,4 @@
-# Kalecia M.
-
-> Using data to tell the story of library communities
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalecia-mcneal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Kalecia24824-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalecia24824)
-[![Email](https://img.shields.io/badge/Email-kaleciamcneal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaleciamcneal@gmail.com)
-
----
+# 👋🏾 Hello, my name is Kalecia!
 
 ## 🌿 About Me
 
@@ -20,6 +12,12 @@ Currently:  Building a library-focused data portfolio & seeking library roles
 
 I'm an aspiring data analyst with a heart for libraries and the communities they serve. My background includes hands-on library experience from high school through college, along with skills in data analysis, record management, and front-end web development. I believe libraries run better when the people behind them can read and act on their own data — and that's exactly what I want to help make possible.
 
+---
+> Using data to tell the story of library communities
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalecia-mcneal/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kalecia24824-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalecia24824)
+[![Email](https://img.shields.io/badge/Email-kaleciamcneal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaleciamcneal@gmail.com)
 ---
 
 ## 🛠️ Tools & Skills
