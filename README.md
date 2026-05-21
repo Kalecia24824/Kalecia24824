@@ -16,6 +16,7 @@ When I'm not dreaming about libraries, I'm building celestial themed projects, e
 
 ---
 > Using data to tell the story of library communities
+
 [![Email](https://img.shields.io/badge/Email-kaleciamcneal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaleciamcneal@gmail.com)
 ---
 
