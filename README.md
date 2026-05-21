@@ -37,7 +37,6 @@ When I'm not dreaming about libraries, I'm building celestial themed projects, e
 ## 📁 Featured Projects
 
 | Project | Tools | Description |
-|---|---|---||
 |🌠Coming Soon!!!|
 
 ---
