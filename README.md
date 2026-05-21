@@ -1,22 +1,21 @@
-# 👋🏾 Hello, my name is Kalecia!
+# 🌠 Hello, my name is Kalecia!
 
-## 🌿 About Me
+## 🌙 Who Am I?
 
 ```
-Name:       Kalecia McNeal
-Location:   Tallahassee, FL
-Degree:     B.S. Information Technology — Florida State University (2024)
-Focus:      Data Analysis | Library & Information Services
-Currently:  Building a library-focused data portfolio & seeking library roles
+Name       →  Kalecia McNeal
+Location   →  Somewhere between the stars and the stacks 🌙
+Degree     →  B.S. Information Technology — FSU (2024)
+Vibe       →  Library lover · Celestial dreamer · Creative builder
+Currently  →  Chasing library roles by day, building fun projects by night ✨
 ```
 
-I'm an aspiring data analyst with a heart for libraries and the communities they serve. My background includes hands-on library experience from high school through college, along with skills in data analysis, record management, and front-end web development. I believe libraries run better when the people behind them can read and act on their own data — and that's exactly what I want to help make possible.
+I believe libraries are magic — and the people behind them deserve tools that work just as beautifully. My background blends library experience, data organization, and front-end web development into one creative little package.
+When I'm not dreaming about libraries, I'm building celestial themed projects, exploring design, and teaching myself new things one star at a time. 🌟
+"Not all those who wander are lost — some of us are just exploring the stacks." 📚
 
 ---
 > Using data to tell the story of library communities
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalecia-mcneal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Kalecia24824-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalecia24824)
 [![Email](https://img.shields.io/badge/Email-kaleciamcneal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaleciamcneal@gmail.com)
 ---
 
@@ -24,26 +23,27 @@ I'm an aspiring data analyst with a heart for libraries and the communities they
 
 ### Currently Using
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Building Up
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 📁 Featured Projects
 
 | Project | Tools | Description |
-|---|---|---|
-| 📚 Library Circulation Trends Analysis | Excel | Analyzed circulation data to identify checkout trends by genre, season, and branch |
-| 🗄️ Library Collection SQL Queries | SQL | Structured queries exploring collection gaps, popular categories, and underused resources |
-| 🌐 Library Branch Locator Webpage | HTML/CSS/JS | Front-end project for browsing library branch info in a clean, accessible interface |
+|---|---|---||
+|🌠Coming Soon!!!|
 
 ---
+### ✨ Fun Facts
+- 🔭 Obsessed with celestial aesthetics
+- 📚 Libraries have my whole heart
+- 🎨 Artist at heart, coder by curiosity
+- 🌙 Building things that feel like midnight magic
 
-*"Every community deserves a library that understands them — and data helps us get there."* 🌿
+*"Sometimes the best ideas are just a shooting star away or on a random night at 3am"* 🌟
