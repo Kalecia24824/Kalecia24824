@@ -15,7 +15,7 @@ When I'm not dreaming about libraries, I'm building celestial themed projects, e
 "Not all those who wander are lost — some of us are just exploring the stacks." 📚
 
 ---
-> Using data to tell the story of library communities
+> Using data and coding to create stories 
 
 [![Email](https://img.shields.io/badge/Email-kaleciamcneal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaleciamcneal@gmail.com)
 ---
