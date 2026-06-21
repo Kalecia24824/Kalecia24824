@@ -7,8 +7,8 @@ I believe in making beautiful things whether that's curating knowledge for curio
 
 ---
 
-## 🌸 What I Do
-These are the things I want to do: 
+## 🌸 My Work
+These are things I am working towards: 
 - 📚 Pursue a career in Library & Information Science
 - 💻 Build beautiful front-end projects as a creative hobby
 - 🎨 Design with a celestial aesthetic using tools like Procreate & Affinity
@@ -24,20 +24,20 @@ These are my skills as for coding:
 
 ---
 
-## 🌟 What I am doing now: 
+## 🌟 My Goals
 I am working towards: 
 - 📖 My Librarian Career
 - 💫 Learning Front-End Development skills 
 - ✨ Building a Celestial-themed portfolio
 ---
 
-## My Work: 
+## My Work 
 These are my links to my portfolios:
-🎨 [Front-End Development](Coming Soon!)
-📊 [Data Analytics](Coming Soon!)
+- 🎨 [Front-End Development](Coming Soon!)
+- 📊 [Data Analytics](Coming Soon!)
 ---
 
-## Contact: 
+## Contact 
 You can contact me through my email or LinkedIn: 
-📨 [My Email](mailto:kaleciamcneal@gmail.com)
-🪪 [My LinkedIn](linkedin.com/in/kalecia-mcneal/)
+- 📨 [My Email](mailto:kaleciamcneal@gmail.com)
+- 🪪 [My LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/)
