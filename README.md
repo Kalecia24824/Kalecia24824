@@ -7,10 +7,10 @@ I believe in making beautiful things whether that's curating knowledge for curio
 
 ## 🌸 What I Do
 These are the things I want to do: 
-📚 Pursue a career in Library & Information Science
-💻 Build beautiful front-end projects as a creative hobby
-🎨 Design with a celestial aesthetic using tools like Procreate & Affinity
-🗄️ Experienced in Front-End Web Development, Web Design, and Basic Data Analytics
+- 📚 Pursue a career in Library & Information Science
+- 💻 Build beautiful front-end projects as a creative hobby
+- 🎨 Design with a celestial aesthetic using tools like Procreate & Affinity
+- 🗄️ Experienced in Front-End Web Development, Web Design, and Basic Data Analytics
 
 ---
 
