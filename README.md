@@ -1,43 +1,41 @@
-# 🌙 Hi, I'm Kalecia
-✨ Creative dreamer | Aspiring Librarian | Front-End Enthusiast
+# Hi, I'm Kalecia McNeal 👋✨
 
-My favorite quote is: *"Where knowledge meets creativity"* 🌙
+> *A dreamer who builds cozy things for the joy of it.*
 
-I believe in making beautiful things whether that's curating knowledge for curious minds or crafting elegant experiences on the web. For me, technology and libraries are ways of connecting people to what they love.
-
----
-
-## 🌸 My Work
-These are things I am working towards: 
-- 📚 Pursue a career in Library & Information Science
-- 💻 Build beautiful front-end projects as a creative hobby
-- 🎨 Design with a celestial aesthetic using tools like Procreate & Affinity
-- 🗄️ Experienced in Front-End Web Development, Web Design, and Basic Data Analytics
+I'm a front-end developer in the making with an IT background and a love for creating things that are both useful and beautiful. When I'm not coding, you'll find me lost in a book, sketching something, or writing my next idea down. I aspire to live life as cozy as possible — while making sure it's worthwhile.
 
 ---
 
-## 🛠️ Skills
-These are my skills as for coding: 
-- HTML & CSS
-- SQL & MySQL
-- Git & GitHub
+## 🗂️ My Projects
+
+| Category | Description |
+|----------|-------------|
+| [🌐 Websites & Pages](#) | Landing pages, personal sites, and web pages |
+| [📱 Apps](#) | Web applications and interactive projects |
+| [🎮 Games](#) | Browser-based games and fun experiments |
+| [🛠️ Tools & Productivity](#) | Utilities and productivity helpers |
+
+*(Links will be updated as projects are added!)*
 
 ---
 
-## 🌟 My Goals
-I am working towards: 
-- 📖 My Librarian Career
-- 💫 Learning Front-End Development skills 
-- ✨ Building a Celestial-themed portfolio
+## 🧰 Skills
+
+**Currently working with:**
+- HTML
+- CSS *(in progress)*
+
+**Learning next:**
+- JavaScript
+- TypeScript
+- React
+
 ---
 
-## My Work 
-These are my links to my portfolios:
-- 🎨 [Front-End Development](Coming Soon!)
-- 📊 [Data Analytics](Coming Soon!)
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/)
+
 ---
 
-## Contact 
-You can contact me through my email or LinkedIn: 
-- 📨 [My Email](mailto:kaleciamcneal@gmail.com)
-- 🪪 [My LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/)
+*Thanks for stopping by — feel free to explore! 🌸*
