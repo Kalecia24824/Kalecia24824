@@ -11,9 +11,9 @@ I'm a front-end developer in the making with an IT background and a love for cre
 | Category | Description |
 |----------|-------------|
 | [🌐 Websites & Pages](https://github.com/Kalecia24824/Websites) | Landing pages, personal sites, and web pages |
-| [📱 Apps](Coming Soon) | Web applications and interactive projects |
-| [🎮 Games] (Coming Soon) | Browser-based games and fun experiments |
-| [🛠️ Tools & Productivity](Coming Soon) | Utilities and productivity helpers |
+| [📱 Apps](#) | Web applications and interactive projects |
+| [🎮 Games] (#) | Browser-based games and fun experiments |
+| [🛠️ Tools & Productivity](#) | Utilities and productivity helpers |
 
 *(Links will be updated as projects are added!)*
 
