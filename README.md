@@ -10,7 +10,7 @@ I'm a front-end developer in the making with an IT background and a love for cre
 
 | Category | Description |
 |----------|-------------|
-| [🌐 Websites & Pages](https://github.com/Kalecia24824/Websites) | Landing pages, personal sites, and web pages |
+| [🌐 Websites](https://github.com/Kalecia24824/Websites) | Landing pages, personal sites, and web pages |
 | [📱 Apps](#) | Web applications and interactive projects |
 | [🎮 Games](#) | Browser-based games and fun experiments |
 | [🛠️ Tools & Productivity](#) | Utilities and productivity helpers |
